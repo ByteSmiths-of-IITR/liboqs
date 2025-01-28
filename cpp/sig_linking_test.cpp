@@ -6,6 +6,8 @@
  * SPDX-License-Identifier: MIT
  */
 
+// Found a small cpp code to check signatures
+
 #include <cstdint>
 #include <cstdlib>
 #include <cstring>
