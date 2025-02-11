@@ -7,6 +7,8 @@
  * SPDX-License-Identifier: MIT
  */
 
+// Example code for KEM found
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
